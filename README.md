@@ -7,6 +7,6 @@
 - 💬 Ask me about C++, java, Python or any tech related stuff.
 - 📫 How to reach me: [Instagram - @Ianishmishra](https://www.instagram.com/ianishmishra/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:  @Ianishmishra just published a blog post about how to create a GitHub profile README.
+- ⚡ Fun fact:  [@Ianishmishra](https://github.com/ianishmishra) just published a blog post about how to create a GitHub profile README.
 
    <img src="https://github-readme-stats.vercel.app/api?username=ianishmishra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
