@@ -1,9 +1,9 @@
 ### Hola, I'm Anish Mishra! 👋
 
 - 🔭 I’m currently working on Flutter App development
-- 🌱 I’m currently learning Flutter, QT
+- 🌱 I’m currently learning Flutter, QT, Angular, NodeJS, ExpressJS
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Dart language
+- 🤔 I’m looking for help with Angular language
 - 💬 Ask me about C++, java, Python or any tech related stuff.
 - 📫 How to reach me: [Instagram - @Ianishmishra](https://www.instagram.com/ianishmishra/)
 - 😄 Pronouns: He/His
